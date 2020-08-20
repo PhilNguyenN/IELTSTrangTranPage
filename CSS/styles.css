@@ -111,9 +111,9 @@ h3 {
     -moz-border-radius: 20px;
     border-radius: 20px;
     height: 10px;
-    line-height: 10px;
+    line-height: 15px;
     color: #FFFFFF;
-    font-family: sans-serif;
+    font-family: 'Baloo Tamma 2', cursive;
     width: 169px;
     font-size: 24px;
     font-weight: 900;
@@ -138,4 +138,8 @@ h3 {
 
 .Name{
     color: #EAF6F6;
+}
+
+a:hover{
+    color: #eaf6f6;
 }
