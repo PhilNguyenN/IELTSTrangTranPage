@@ -3,6 +3,7 @@ body {
     text-align: center;
     font-family: 'Baloo Tamma 2', cursive;
     font-size: 120%;
+    color: #40514E;
 }
 
 h1 {
@@ -84,8 +85,8 @@ h3 {
 }
 
 .personal-description {
-    display: inline-block;
     width: 50%;
+    margin: auto;
     margin-bottom: 0px;
 }
 
@@ -129,8 +130,10 @@ h3 {
 .footer-link{
     color: #11999E;
     font-family: sans-serif;
-    text-decoration: none;
+    text-decoration: solid;
+    font-weight: bold;
     padding: 0px 20px 0px 20px;
+
 }
 
 .Name{
